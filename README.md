@@ -1,4 +1,4 @@
-# Assessment-Clean-value-technology
+# Assessment-Clean-Value-Technology
 ##1. Create a calculator function - challenge complexity medium
 --------------------------------------------------------------
 ```
