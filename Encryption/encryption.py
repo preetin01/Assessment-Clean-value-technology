@@ -1,5 +1,5 @@
 # Author: Preeti Nishad
-# College name: Raj Kumar Goel Institute of Technology, Ghaziabad
+# College name: Raj Kumar Goel Institute of Technology(033), Ghaziabad
 # College Id: 2000330100163@rkgit.edu.in
 
 
