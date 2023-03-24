@@ -1,9 +1,3 @@
-# Author: Preeti Nishad
-# College name: Raj Kumar Goel Institute of Technology(033), Ghaziabad
-# College Id: 2000330100163@rkgit.edu.in
-
-
-
 def encrypt(str):
     reversed_str=reversed(str)
     vowels={'a':'3','e':'8','i':'1','o':'9','u':'4'}
