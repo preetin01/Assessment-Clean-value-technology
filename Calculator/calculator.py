@@ -1,7 +1,3 @@
-# Author: Preeti Nishad
-# College: Raj Kumar Goel Institute of Technology(033), Ghaziabad
-# College Id: 2000330100163@rkgit.edu.in
-
 def cal_func(num1, operator, num2):
     if operator == '+':
         return num1 + num2
